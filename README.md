@@ -10,10 +10,10 @@ Il s’agit d’un jeu de données de reconnaissances de gestes à partir de mes
 par un gant de réalité virtuelle.
 Composed of two dataset :
 
-- **SG - Static Gesture**
-- **DG - Dynamic Gesture** 
+- **SG - 24 Static Gesture**
+- **DG - 10 Dynamic Gesture** 
 
-Complete DEscription of the baselines in this article :(https://www.researchgate.net/publication/330429917_Online_Recognition_of_Incomplete_Gesture_Data_to_Interface_Collaborative_Robots)
+Complete Description of the baselines in this article :(https://www.researchgate.net/publication/330429917_Online_Recognition_of_Incomplete_Gesture_Data_to_Interface_Collaborative_Robots)
 
 
 For reasons of simplicity, we will initially limit ourselves to the Static Gesture subdataset. 
@@ -26,3 +26,21 @@ https://github.com/MiguelSimao/UC2017_Classification**
 
 <img src="https://user-images.githubusercontent.com/49198711/109167223-d1d5d000-777d-11eb-8480-5dfe3c5aa36a.png" width="60%"></img> 
 
+# Softwares, Library and Langage use
+- Google Collaboratory: (https://colab.research.google.com/notebooks/intro.ipynb)
+- Python : (https://www.python.org/)
+
+1. **For Machine and Deep Learning Tools**
+- Tensorflow : (https://www.tensorflow.org/?hl=fr)
+- Keras : (https://keras.io/)
+- Sckit-learn : (https://scikit-learn.org/stable/)
+
+2. **Process and Visualiation of dataset**
+- Pandas : https://pandas.pydata.org/
+- Matplotlib : https://matplotlib.org/stable/index.html
+
+# Data Analysis
+
+
+
+# ML Results
