@@ -41,6 +41,15 @@ https://github.com/MiguelSimao/UC2017_Classification**
 
 # Data Analysis
 
+**PCA interclasses **
+<img src="https://user-images.githubusercontent.com/49198711/109169037-b4096a80-777f-11eb-8d3a-e93ed0260f4e.png" width="90%"></img>
 
+**PCA gestures**
+<img src="https://user-images.githubusercontent.com/49198711/109169036-b370d400-777f-11eb-987b-d7f0938ec0a6.png" width="90%"></img> 
 
 # ML Results
+**RNN with 3 Hiden layers performanes**
+ <img src="https://user-images.githubusercontent.com/49198711/109169062-b8ce1e80-777f-11eb-9e10-2adfd7167cfc.png" width="90%"></img> 
+ 
+ **Perceptron performances**
+ <img src="https://user-images.githubusercontent.com/49198711/109169065-b966b500-777f-11eb-8b6b-2d821942e0c4.png" width="90%"></img> 
