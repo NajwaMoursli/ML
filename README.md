@@ -39,6 +39,14 @@ https://github.com/MiguelSimao/UC2017_Classification**
 - Pandas : https://pandas.pydata.org/
 - Matplotlib : https://matplotlib.org/stable/index.html
 
+# Models used for Croos Validation
+- Perceptron Multi-layers
+- Decision Tree
+- Random Forest
+- SVM
+- KNN
+- Our own RNN with 3 hidden layers
+
 # Data Analysis
 
 **PCA interclasses **
